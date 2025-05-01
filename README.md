@@ -1,4 +1,4 @@
-# Final Research Paper - Data Anonymization (2019)
+# Final Research Paper - Data Anonymization
 
 This repository contains the final research paper on data anonymization completed in 2019.
 
